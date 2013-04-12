@@ -1,0 +1,54 @@
+.panel{
+	border-radius:5px;
+	width:560px;
+	height:320px;
+	background-color:RGBA(148,252,63,0.2);
+	border:2px solid 05ffdf;
+	margin-left:40px;
+	margin-top:40px;
+	padding:20px;
+}
+#start,#bg
+	{
+	background:#0184cd;
+	color:#fff;
+	border-radius:4px;
+	cursor:pointer;
+	text-shadow:1px 1px #4c9021;
+	clear:both;
+	height:25;
+	width:50;
+	margin:5px;
+	}
+#bg{
+	background-color:RGB(255,255,255);
+	padding:35px;
+	border-radius:5px;
+	height:210px;
+	width:490px;
+	display:none;
+}
+.name{
+	background-color:RGBA(229,237,7,0.2);
+	border:2px solid 05ffdf;
+	width:75px;
+	height:200px;
+	margin-left:430px;
+	margin-top:-165px;
+}
+.time{
+	text-align:center;
+	color:#f89009;
+	font-size:25px;
+	margin:5px;
+}
+.kotak{
+		width:40px;
+		height:40px;
+		background:#24C82D;
+		border:1px solid white;
+		float:left;
+}	
+body{
+	background:url('images/bg.jpg')center right;
+}

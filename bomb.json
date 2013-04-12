@@ -1,0 +1,6 @@
+{
+	"fungsi":[
+		{"bomb" : "images/false.png"},
+		{"benar" : "images/true.png"}
+	]
+}
